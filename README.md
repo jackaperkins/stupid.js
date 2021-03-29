@@ -1,6 +1,6 @@
 # What is stupid.js?
 
-Stupid.js is a useless library. Stupid.js is a chain letter. It's the Facebook wall. Stupid.js is a collaborative project in creating useless code. Add whatever you want to stupid.js. Add some buffer overflows, add some Python, add an operating system, a picture of your favorite salamander, I don't care. Just put some stupid junk in there for no reason, because we're sharing, and because you CAN. Just keep it SFW please.
+Stupid.js is a useless library. Stupid.js is a chain letter. It's the Facebook wall. Stupid.js is a collaborative project in creating useless code. Add whatever you want to stupid.js. Add some buffer overflows, add some Python, add an operating system, a picture of your favorite salamander, I don't care. You can also add valid, useful JavaScript or other code, but there's going to be a lot of other stuff around it that will likely render it inoperable. But that doesn't matter! Stupid.js is *theoretical* code. A thought experiment. Public graffiti. Just put something in there for no reason, because we're sharing, and because you CAN. Just keep it SFW please.
 
 # What *isn't* stupid.js?
 
