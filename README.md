@@ -12,7 +12,7 @@ Because everything is stupid. Why not partake in something that's at least stupi
 
 Here's a unicorn from https://www.asciiart.eu/mythology/unicorns. I think it's a really good unicorn, don't you? 
 `note that the unicorn has been compressed because it's being interpreted as Markdown`
-`
+
               ,,))))))));,
            __)))))))))))))),
 \|/       -\(((((''''((((((((.
@@ -33,8 +33,8 @@ Here's a unicorn from https://www.asciiart.eu/mythology/unicorns. I think it's a
                                    \~\
                                     ~~
                                     
+                                   
                                     
-                                    `
 # # Here's the third heading again for no reason:
 # Why is stupid.js?
 
@@ -61,6 +61,7 @@ Training
 Blog
 
 Here's another unicorn that might work better with Markdown. Maybe we can petition GitHub to incorporate better unicorn compatibility into Markdown.
+<!-- language: lang-none -->
                                           |
             \\\\                         ||
              \\\\\                       ||
