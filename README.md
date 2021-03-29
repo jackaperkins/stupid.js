@@ -11,7 +11,7 @@ Stupid.js is not code that you should execute, ever. The best and most likely sc
 Because everything is stupid. Why not partake in something that's at least stupid *on purpose*? There is also no barrier to entry beyond having a github account and vaguely knowing how it works. If you don't know how it works but want to contribute anyway, ask a friend! Maybe your two-year-old neice wants to add something. Maybe your monitor lizard has some valuable insight on singletons she wants to show the world. Just go for it.
 
 Here's a unicorn from https://www.asciiart.eu/mythology/unicorns. I think it's a really good unicorn, don't you? 
-`note that the unicorn has been compressed because it's being interpreted as Markdown`
+### note that the unicorn has been compressed because it's being interpreted as Markdown
 
               ,,))))))));,
            __)))))))))))))),
