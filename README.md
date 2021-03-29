@@ -9,3 +9,49 @@ Stupid.js is not code that you should execute, ever. The best and most likely sc
 # Why is stupid.js?
 
 Because everything is stupid. Why not partake in something that's at least stupid *on purpose*? There is also no barrier to entry beyond having a github account and vaguely knowing how it works. If you don't know how it works but want to contribute anyway, ask a friend! Maybe your two-year-old neice wants to add something. Maybe your monitor lizard has some valuable insight on singletons she wants to show the world. Just go for it.
+
+Here's a unicorn from https://www.asciiart.eu/mythology/unicorns. I think it's a really good unicorn, don't you
+              ,,))))))));,
+           __)))))))))))))),
+\|/       -\(((((''''((((((((.
+-*-==//////((''  .     `)))))),
+/|\      ))| o    ;-.    '(((((                                  ,(,
+         ( `|    /  )    ;))))'                               ,_))^;(~
+            |   |   |   ,))((((_     _____------~~~-.        %,;(;(>';'~
+            o_);   ;    )))(((` ~---~  `::           \      %%~~)(v;(`('~
+                  ;    ''''````         `:       `:::|\,__,%%    );`'; ~
+                 |   _                )     /      `:|`----'     `-'
+           ______/\/~    |                 /        /
+         /~;;.____/;;'  /          ___--,-(   `;;;/
+        / //  _;______;'------~~~~~    /;;/\    /
+       //  | |                        / ;   \;;,\
+      (<_  | ;                      /',/-----'  _>
+       \_| ||_                     //~;~~~~~~~~~
+           `\_|                   (,~~  -Tua Xiong
+                                   \~\
+                                    ~~
+                                    
+Here's the third heading again for no reason.
+# Why is stupid.js?
+
+Because everything is stupid. Why not partake in something that's at least stupid *on purpose*? There is also no barrier to entry beyond having a github account and vaguely knowing how it works. If you don't know how it works but want to contribute anyway, ask a friend! Maybe your two-year-old neice wants to add something. Maybe your monitor lizard has some valuable insight on singletons she wants to show the world. Just go for it.
+
+Commit changes
+Commit summary
+Update README.md
+Optional extended description
+Add an optional extended description…
+ Commit directly to the main branch.
+ Create a new branch for this commit and start a pull request. Learn more about pull requests.
+
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
