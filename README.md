@@ -1,2 +1,2 @@
 # piss.js
-piss
+fuck you
